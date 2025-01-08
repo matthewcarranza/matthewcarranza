@@ -1,5 +1,5 @@
-# My Portfolio
-I’m Matt, an aspiring Data Analyst with a passion for uncovering insights and solving problems through data. I believe data has the power to transform businesses and improve decision-making, and I’m excited to contribute to this ever-evolving field.
+# Hey there, I'm Matt 👋
+I’m an aspiring Data Analyst with a passion for uncovering insights and solving problems through data. I believe data has the power to transform businesses and improve decision-making, and I’m excited to contribute to this ever-evolving field.
 ### 📖 About Me
 🎓 I am a student California State University, Long Beach studying Computer Science with a minor in Statistics.
 
