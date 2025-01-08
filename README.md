@@ -16,7 +16,7 @@ Data Manipulation: SQL, MongoDB
 Visualization: Tableau, Plotly
 Other Skills: Data cleaning, statistical analysis
 ### 🌟 Featured Projects
-Welcome to my portfolio, where I showcase my [projects]()
+Welcome to my portfolio, where I showcase my [projects](https://github.com/matthewcarranza/portfolio/blob/main/README.md)
 ### 🌐 Connect with Me
 I’m always eager to learn, collaborate, and grow. Feel free to connect with me on:
 [LinkedIn](https://www.linkedin.com/in/mattcarranza/)
