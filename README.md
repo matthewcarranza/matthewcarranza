@@ -6,7 +6,9 @@ I’m Matt, an aspiring Data Analyst with a passion for uncovering insights and 
 📊 I enjoy working on real-world datasets to uncover meaningful insights.
 
 🔍 My focus areas include data cleaning, visualization, exploratory data analysis (EDA), and statistical modeling.
-
+<details>
+<summary><b>More Info</b></summary>
+  
 ### 🚀 My Goals
 Build proficiency in tools like Python, SQL, Excel, and Tableau.
 
@@ -17,8 +19,11 @@ Contribute to impactful projects that showcase the power of data-driven decision
 Here are some of the tools and technologies I’m working with:
 
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Data Manipulation: SQL, MongoDB
+
 Visualization: Tableau, Plotly
+
 Other Skills: Data cleaning, statistical analysis
 ### 🌟 Featured Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/matthewcarranza/portfolio/blob/main/README.md)
