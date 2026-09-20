@@ -1,12 +1,4 @@
-# Hi, I'm Matt Carranza 👋
-I’m an aspiring Data Analyst with a passion for uncovering insights and solving problems through data. I believe data has the power to transform businesses and improve decision-making, and I’m excited to contribute to this ever-evolving field.
-
-## 🚀 My Goals
-Build proficiency in tools like Python, SQL, Excel, and Tableau.
-
-Strengthen my understanding of data analysis techniques and best practices.
-
-Contribute to impactful projects that showcase the power of data-driven decisions.
+# Hi, I'm Matt 👋
 
 ## 💻 Tech Stack
 | Category               | Technologies                                                                                                                                                                                                                       |
